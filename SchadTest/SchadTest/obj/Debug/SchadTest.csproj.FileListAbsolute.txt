@@ -1,0 +1,54 @@
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\bin\Debug\SchadTest.exe.config
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\bin\Debug\SchadTest.exe
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\bin\Debug\SchadTest.pdb
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest.csproj.AssemblyReference.cache
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\MainWindow.g.cs
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\App.g.cs
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest_MarkupCompile.cache
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest_MarkupCompile.lref
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\MainWindow.baml
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest.g.resources
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest.Properties.Resources.resources
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest.csproj.GenerateResource.cache
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest.csproj.CoreCompileInputs.cache
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest.exe
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest.pdb
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest.ScreenLaunch.resources
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest.Users.resources
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\bin\Debug\SchadTest.DataAccess.dll
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\bin\Debug\SchadTest.DataAccess.pdb
+C:\Users\jgarcia\source\repos\SchadTest\SchadTest\obj\Debug\SchadTest.csproj.CopyComplete
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\SchadTest.exe.config
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\SchadTest.exe
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\SchadTest.pdb
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\Dapper.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\SchadTest.DataAccess.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\SchadTest.Services.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\System.Security.Permissions.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\SchadTest.DataAccess.pdb
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\SchadTest.Services.pdb
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\Dapper.xml
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\System.Security.Permissions.xml
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.csproj.AssemblyReference.cache
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\MainWindow.g.cs
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\App.g.cs
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest_MarkupCompile.cache
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest_MarkupCompile.lref
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\MainWindow.baml
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.g.resources
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.Properties.Resources.resources
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.ScreenLaunch.resources
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.Customer.resources
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.csproj.GenerateResource.cache
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.csproj.CoreCompileInputs.cache
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.csproj.CopyComplete
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.exe
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.pdb
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.CreateCustomer.resources
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest\obj\Debug\SchadTest.Views.Invoice.Invoice.resources

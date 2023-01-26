@@ -1,0 +1,10 @@
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.DataAccess\bin\Debug\netstandard2.0\SchadTest.DataAccess.deps.json
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.DataAccess\bin\Debug\netstandard2.0\SchadTest.DataAccess.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.DataAccess\bin\Debug\netstandard2.0\SchadTest.DataAccess.pdb
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.DataAccess\obj\Debug\netstandard2.0\SchadTest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.DataAccess\obj\Debug\netstandard2.0\SchadTest.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.DataAccess\obj\Debug\netstandard2.0\SchadTest.DataAccess.AssemblyInfo.cs
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.DataAccess\obj\Debug\netstandard2.0\SchadTest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.DataAccess\obj\Debug\netstandard2.0\SchadTest.DataAccess.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.DataAccess\obj\Debug\netstandard2.0\SchadTest.DataAccess.pdb
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.DataAccess\obj\Debug\netstandard2.0\SchadTest.DataAccess.csproj.AssemblyReference.cache

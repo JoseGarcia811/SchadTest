@@ -1,0 +1,13 @@
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\bin\Debug\netstandard2.0\SchadTest.Services.deps.json
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\bin\Debug\netstandard2.0\SchadTest.Services.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\bin\Debug\netstandard2.0\SchadTest.Services.pdb
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\bin\Debug\netstandard2.0\SchadTest.DataAccess.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\bin\Debug\netstandard2.0\SchadTest.DataAccess.pdb
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\obj\Debug\netstandard2.0\SchadTest.Services.csproj.AssemblyReference.cache
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\obj\Debug\netstandard2.0\SchadTest.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\obj\Debug\netstandard2.0\SchadTest.Services.AssemblyInfoInputs.cache
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\obj\Debug\netstandard2.0\SchadTest.Services.AssemblyInfo.cs
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\obj\Debug\netstandard2.0\SchadTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\obj\Debug\netstandard2.0\SchadTest.Services.csproj.CopyComplete
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\obj\Debug\netstandard2.0\SchadTest.Services.dll
+C:\Users\Intel Desktop.JOSE\Documents\SchadTest\SchadTest.Services\obj\Debug\netstandard2.0\SchadTest.Services.pdb
